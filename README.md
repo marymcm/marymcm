@@ -1,6 +1,6 @@
 💌Welcome💌
 
-I am a third-year student at Georgetown University studying Computer Science.
+I am a senior at Georgetown University studying Computer Science.
 - 👀 I’m interested in learning more about UX/UI design
 - 🌱 I’m currently learning the programming language C++
 - 💞️ My pronouns are she/her/hers
