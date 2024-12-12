@@ -2,7 +2,7 @@
 
 I am a senior at Georgetown University studying Computer Science.
 - 👀 I’m interested in learning more about UX/UI design
-- 🌱 I’m currently learning the programming language C++
+- 🌱 I’m currently learning AWS and React.js
 - 💞️ My pronouns are she/her/hers
 - 🪄 Fun fact! Ice Age: Continental Drift is my favorite movie
 
